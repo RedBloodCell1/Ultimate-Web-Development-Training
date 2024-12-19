@@ -9,3 +9,5 @@ Study Schedule:
 - 17/12/2024 = 20:16 - 22:58 (31 minute 50 second)
 
 YOOO THATS A LONG STOP. damn... welcome back me. Lets continue
+
+- 19/12/2024 = 21:57 - 22:22 (5 minute)
