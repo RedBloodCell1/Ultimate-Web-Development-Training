@@ -11,3 +11,5 @@ Study Schedule:
 YOOO THATS A LONG STOP. damn... welcome back me. Lets continue
 
 - 19/12/2024 = 21:57 - 22:22 (5 minute)
+
+- 26/12/2024 = 15:42 -
