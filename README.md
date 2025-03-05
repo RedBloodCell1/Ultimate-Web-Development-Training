@@ -19,3 +19,9 @@ I got no reason. Its really hard to keep up with things. Its always been like th
 Its 24/01/2025 today, its been quite a long time. Even if i spend an hour, i can only focus for an hour at best. This is just me trying to be fast at studying without taking my time slowly learning things. I feel really bad. But I know, there's no need to think so much. I just need to do what I need to do. Be more disciplined and keep going. I can't promise anything anymore because I dont wanna make a promise i can't keep. I know that I probably will stop again one day. But I promise that I will always come back. That is my promise. I don't know what kind of realization that I will get each time I come back. But I will be stronger.
 
 - 24/01/2025 = 19:15 - 19:56 (27 Minute 16 Second)
+
+And here i am 22/02/2025 Another 1 month of nothingness. I am going to study. Thats it
+
+- 22/02/2025 (Failed to study cause of distraction)
+
+- 05/03/2025 = Study
