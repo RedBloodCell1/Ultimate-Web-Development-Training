@@ -31,3 +31,5 @@ And here i am 22/02/2025 Another 1 month of nothingness. I am going to study. Th
 - 08/03/2025 = Study
 
 - 09/03/2025 = Study
+
+- 10/03/2025 = Study
