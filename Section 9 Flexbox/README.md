@@ -9,7 +9,7 @@
 
 ## Flex Direction:
 
-1. **flex-direction** (Parent) defaults to row. (Left to right). If we set it to column then it will be (up to down)
+1. **flex-direction** (Parent) defaults4 to row. (Left to right). If we set it to column then it will be (up to down)
 2. **flex-basis** (Child) = change the size depends on flex direction
 
 ## Flex Layout:
@@ -22,3 +22,10 @@
 6. vh is viewport height
 7. BRUH JUST LOOK AT THIS LINK MAN **https://css-tricks.com/snippets/css/a-guide-to-flexbox/**
 8. **align-content** (Parent) = If we use wrap the we use this thing right here
+
+## Flex Sizing:
+
+1. Holy there is so much to write, damn do i wanna write em all, I guess i will
+2. **flex-grow / flex-shrink** = it can grow (Default 0) or shrink (Default 1). Grow is trying to take as much width as possible (affected by max-width and min-width)
+3. flex-basis default is auto
+4. We can just write **flex**: 1 1 0 (Grow, shrink, basis) or simply just flex: 1
