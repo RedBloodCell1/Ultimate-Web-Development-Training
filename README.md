@@ -43,3 +43,11 @@ And here i am 22/02/2025 Another 1 month of nothingness. I am going to study. Th
 - 14/03/2025 = Study
 
 - 15/03/2025 = Study
+
+Lets take a moment to talk a little bit. I manage to be discipline for days now and I plan on continuing to do so. Like its really hard when i set up a time or like setting how long do i need to study. Now I just simply study when I want to and no matter how little or how long i study, i never feel bad about it.
+
+I am proud of myself and I will keep this up so I will be able to study more and more. Because it really snowballs, the habit, the discipline, the mentality. Everything going forward will be even better. Don't need to dwell on how long I am gonna take to finish this all. But one thing I know is, I need to keep going forward and be the better version of myself everyday.
+
+Everyday might look the same without any progress. Buy for someone who stumble upon this, I just wanna tell you guys that I have been in this journey for like 8 or 9 years trying to start something but never really stick with it until the end. Its hard because there is just so much thing that hinders us. But I promise you guys, You can do it too and probably with less time than I did.
+
+I know this is just me blabbering. I have finished section 9 of this lesson. Lets see where I am at in a month now. See you guys later
