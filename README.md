@@ -51,3 +51,5 @@ I am proud of myself and I will keep this up so I will be able to study more and
 Everyday might look the same without any progress. Buy for someone who stumble upon this, I just wanna tell you guys that I have been in this journey for like 8 or 9 years trying to start something but never really stick with it until the end. Its hard because there is just so much thing that hinders us. But I promise you guys, You can do it too and probably with less time than I did.
 
 I know this is just me blabbering. I have finished section 9 of this lesson. Lets see where I am at in a month now. See you guys later
+
+- 16/03/2025 = Study (Section 10)
