@@ -53,3 +53,5 @@ Everyday might look the same without any progress. Buy for someone who stumble u
 I know this is just me blabbering. I have finished section 9 of this lesson. Lets see where I am at in a month now. See you guys later
 
 - 16/03/2025 = Study (Section 10)
+
+- 17/03/2025 = Study (Section 10)
