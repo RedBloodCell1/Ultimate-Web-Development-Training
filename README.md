@@ -55,3 +55,5 @@ I know this is just me blabbering. I have finished section 9 of this lesson. Let
 - 16/03/2025 = Study (Section 10)
 
 - 17/03/2025 = Study (Section 10)
+
+- 18/03/2025 = Study (Section 10)
