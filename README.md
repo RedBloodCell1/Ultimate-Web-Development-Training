@@ -65,3 +65,5 @@ I know this is just me blabbering. I have finished section 9 of this lesson. Let
 - 21/03/2025 = Study (Section 11 Done)
 
 You know, its kinda disheartening a little bit that I am late to publish new branch and got no contribution on 21/03/2025. But here I learn a new thing. Focus on whats matters. I really wanna make a green streak but because of today, I realize that, it doesn't even matter. What matters is I took my lesson seriously and get better. So from now on, focus on what matters. (the green streak thingies still looks cool tho)
+
+- 22/03/2025 = Study (Section 12 Done)
