@@ -69,3 +69,5 @@ You know, its kinda disheartening a little bit that I am late to publish new bra
 - 22/03/2025 = Study (Section 12 Done)
 
 - 23/03/2025 = Study (Section 12 Design Ending)
+
+- 24/03/2025 = Project (Section 13)
