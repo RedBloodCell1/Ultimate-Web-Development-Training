@@ -1,0 +1,84 @@
+body {
+  background-color: #1b262c;
+  margin: 0;
+  font-family: "Open Sans";
+}
+
+.header {
+  margin: 0;
+}
+
+.container {
+  padding-left: 20vw;
+  padding-right: 20vw;
+}
+
+.header_item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  height: 60px;
+  gap: 30px;
+}
+
+/* .hero {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+} */
+
+.hero {
+  color: #3282b8;
+}
+
+.hero p {
+  font-size: 24px;
+  text-align: left;
+  margin-top: 0px;
+}
+
+.hero h2 {
+  color: #bbe1fa;
+}
+
+.introduction {
+  font-size: 3rem;
+  font-family: "Nunito";
+  margin-bottom: 0;
+}
+
+.name {
+  color: #bbe1fa;
+  font-size: 5rem;
+  font-weight: 800;
+}
+
+.self_photo {
+  float: right;
+  border-radius: 50;
+}
+
+.stack {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.stack h1 {
+  color: #bbe1fa;
+  font-family: "Nunito";
+  font-weight: 800;
+  font-size: 5rem;
+  text-align: center;
+  letter-spacing: 5px;
+
+  background-color: #0f4c75;
+  width: 500px;
+  border-radius: 40px;
+}
+
+a {
+  color: #bbe1fa;
+  text-decoration: none;
+}

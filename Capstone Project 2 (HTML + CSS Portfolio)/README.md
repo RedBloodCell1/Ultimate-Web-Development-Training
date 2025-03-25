@@ -27,4 +27,4 @@ I never knew I would reach this point. Now, lets start making things step by ste
 
 4. 2 Font I will choose = Nunito / Open Sans
 
-5. For color, I will think about it tomorrow after the website is done
+5. For color, I will think about it tomorrow after the website is done (https://colorhunt.co/palette/1b262c0f4c753282b8bbe1fa)
