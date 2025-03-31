@@ -32,3 +32,8 @@ I never knew I would reach this point. Now, lets start making things step by ste
 ## Second + Third Day:
 
 1. Forgot to write anything, long story short, second day is index, third day is stack
+
+## Fourth day:
+
+1. My Project
+2. Contact

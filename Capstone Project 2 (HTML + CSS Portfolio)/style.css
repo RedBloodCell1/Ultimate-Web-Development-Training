@@ -15,7 +15,7 @@ body {
 
 .container {
   padding-left: 25vw;
-  padding-right: 25svw;
+  padding-right: 25vw;
 }
 
 .header_item {
@@ -129,11 +129,61 @@ a {
   border-radius: 10px;
 }
 
+.project_list h1 {
+  color: #bbe1fa;
+}
+
+.project_item {
+  display: grid;
+  grid-template-columns: 40% 40%;
+  grid-template-rows: 300px 300px;
+  gap: 50px;
+}
+
+.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+
+  background-color: #3282b8;
+  padding: 20px;
+  color: #bbe1fa;
+  border-radius: 20px;
+}
+
+.project img {
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  border: 2px solid #1b262c;
+  border-radius: 5px;
+}
+
+.project h2 {
+  height: auto;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid #bbe1fa;
+  background-color: #1b262c;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
 footer {
   margin-top: auto;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  height: 50px;
+  align-items: center;
+  gap: 30px;
+  height: 150px;
   margin-top: 50px;
   color: #bbe1fa;
 }
