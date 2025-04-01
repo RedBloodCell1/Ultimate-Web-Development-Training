@@ -79,3 +79,5 @@ Btw, I will not be studying on 27 - 30 most likely because I got more important 
 - 26/03/2025 = Project - Stack (Section 13)
 
 - 31/03/2025 = Project - Project & About Me (Section 13)
+
+- 01/04/2025 = Project - Media Query (Section 13)
