@@ -83,3 +83,5 @@ Btw, I will not be studying on 27 - 30 most likely because I got more important 
 - 01/04/2025 = Project - Media Query (Section 13)
 
 - 01/05/2025 = Dont wanna study
+
+- 01/06/2025 = Study (Section 14)
