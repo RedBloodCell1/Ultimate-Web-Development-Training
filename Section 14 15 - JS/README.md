@@ -23,3 +23,4 @@
 7. to assign new function, use **function**
 8. **console.log()** = like print
 9. **floor() / ceil()** = round down / round up
+10. **Math.random** = Use times to get number range, and use addition to get starting point, and floor to round down
