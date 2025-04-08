@@ -95,3 +95,5 @@ Btw, I will not be studying on 27 - 30 most likely because I got more important 
 - 07/04/2025 = Dont wanna study
 
 I am tired (literally).
+
+- 08/04/2025 = Dont wanna study
