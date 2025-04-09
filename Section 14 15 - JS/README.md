@@ -24,3 +24,7 @@
 8. **console.log()** = like print
 9. **floor() / ceil()** = round down / round up
 10. **Math.random** = Use times to get number range, and use addition to get starting point, and floor to round down
+11. **x.includes(y)** = return true or false depending of y is in x
+12. **x.push(y)** = push y inside arr x at the end
+13. **x.pop()** = pop the last item on array
+14. **while and for** = Same as c or c++
