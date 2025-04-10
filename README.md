@@ -76,7 +76,7 @@ You know, its kinda disheartening a little bit that I am late to publish new bra
 
 Btw, I will not be studying on 27 - 30 most likely because I got more important things to do. So yeah I already note this down so you guys know where I am if Im gone. (Who are "you guys" anyway)
 
-- 26/03/2025 = Project - Stack (Section 13)
+- 26/03/2025 = Project - Stack (Section 13).
 
 - 31/03/2025 = Project - Project & About Me (Section 13)
 
