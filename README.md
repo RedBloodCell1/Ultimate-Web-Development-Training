@@ -103,3 +103,5 @@ I am tired (literally).
 - 10/04/2025 = Dont wanna study
 
 - 11/04/2025 = Dont wanna study
+
+- 12/04/2025 = Study
