@@ -7,11 +7,15 @@
 
 ## Function:
 
-1. **x.innerHTML** = to change text
+1. **x.innerHTML** = to get the innerHTML of the chosen x tag
 2. **x.style.color** = to change color
 3. **document.querySelector("input").click()** = Query selector is like picking an atrribute on HTML and click is the function to click
 4. **document.firstElementChild** = to get the first elements
 5. **x.length** = to get the length of an element (array length or string length)
+6. **x.style.'css'** = can change like font size but the naming use camel case (Reference https://www.w3schools.com/jsref/dom_obj_style.asp)
+7. **x.classList.add/remove/toggle("Something")** = This is to add a class and remove a class inside an tag. toogle is for, if the class is already there then remove, if its not there then add.
+8. **x.textContent** = to get the text inside the chosen x tag
+9. **x.get/setAttribute("href")** = To get/set an attribute inside a tag. with set having 2 parameter
 
 ## Explanation:
 

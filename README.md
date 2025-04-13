@@ -98,10 +98,12 @@ I am tired (literally).
 
 - 08/04/2025 = Dont wanna study
 
-- 09/04/2025 = Study
+- 09/04/2025 = Study (Section 15)
 
 - 10/04/2025 = Dont wanna study
 
 - 11/04/2025 = Dont wanna study
 
-- 12/04/2025 = Study
+- 12/04/2025 = Study (Section 16)
+
+- 13/04/2025 = Study (Section 16 & Section 17)
