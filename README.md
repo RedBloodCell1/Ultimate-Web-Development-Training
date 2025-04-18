@@ -108,4 +108,6 @@ I am tired (literally).
 
 - 13/04/2025 = Study (Section 16 & Section 17)
 
+- 16/04/2025 = Dont wanna study
+
 - 18/03/2025 = Study ()
