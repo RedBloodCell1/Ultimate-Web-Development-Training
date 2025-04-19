@@ -15,7 +15,7 @@
 6. **x.style.'css'** = can change like font size but the naming use camel case (Reference https://www.w3schools.com/jsref/dom_obj_style.asp)
 7. **x.classList.add/remove/toggle("Something")** = This is to add a class and remove a class inside an tag. toogle is for, if the class is already there then remove, if its not there then add.
 8. **x.textContent** = to get the text inside the chosen x tag
-9. **x.get/setAttribute("href")** = To get/set an attribute inside a tag. with set having 2 parameter
+9. **x.get/setAttribute("href")** = To get/set an attribute inside a tag. with set having 2 parameter ()
 
 ## Explanation:
 

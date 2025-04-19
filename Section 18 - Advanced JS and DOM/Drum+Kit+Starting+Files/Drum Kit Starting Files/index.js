@@ -1,7 +1,20 @@
 var numOfButton = document.querySelectorAll("button.drum").length;
 
-function buttonCheck(button) {
-  switch (button) {
+for (var i = 0; i < numOfButton; i++) {
+  document.querySelectorAll("button")[i].addEventListener("click", function () {
+    var key = this.innerHTML;
+    makeSound(key);
+    buttonAnimation(key);
+  });
+}
+
+document.addEventListener("keypress", function (event) {
+  makeSound(event.key);
+  buttonAnimation(event.key);
+});
+
+function makeSound(key) {
+  switch (key) {
     case "w":
       var drum = new Audio("./sounds/crash.mp3");
       break;
@@ -31,19 +44,19 @@ function buttonCheck(button) {
       break;
 
     default:
-      alert("NOT KEY");
+      console.log("NOT KEY");
       break;
   }
-
-  drum.play();
+  if (drum) {
+    drum.play();
+  }
 }
 
-for (var i = 0; i < numOfButton; i++) {
-  document.querySelectorAll("button")[i].addEventListener("click", function () {
-    buttonCheck(this.innerHTML);
-  });
-}
+function buttonAnimation(key) {
+  var activeButton = document.querySelector("." + key);
+  activeButton.classList.add("pressed");
 
-document.addEventListener("keypress", function (event) {
-  buttonCheck(event.key);
-});
+  setTimeout(function () {
+    activeButton.classList.remove("pressed");
+  }, 100);
+}

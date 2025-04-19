@@ -10,6 +10,8 @@
 
 1. So with (), a function run instantly. With event listener, we dont use () so the function doesnt get triggered immediately because () is a method call
 2. **constructor function** = title needs to start with capitalized letter
+3. **Higher order function** = a function that can take function as an input
+4. **Callback function** = a function that is taken as an input in a function
 
 ## Event:
 
