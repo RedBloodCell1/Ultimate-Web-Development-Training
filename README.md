@@ -112,4 +112,6 @@ I am tired (literally).
 
 - 18/03/2025 = Study (Section 18)
 
-- 19/03/2025 = Study ()
+- 19/03/2025 = Study (Section 18)
+
+- 20/03/2025 = Study (Section 18)
