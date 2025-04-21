@@ -110,8 +110,10 @@ I am tired (literally).
 
 - 16/04/2025 = Dont wanna study
 
-- 18/03/2025 = Study (Section 18)
+- 18/04/2025 = Study (Section 18)
 
-- 19/03/2025 = Study (Section 18)
+- 19/04/2025 = Study (Section 19)
 
-- 20/03/2025 = Study (Section 18)
+- 20/04/2025 = Study (Section 19)
+
+- 21/04/2025 = Study (Section 20 - Simon games boss level challenge)
