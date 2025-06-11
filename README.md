@@ -117,3 +117,5 @@ I am tired (literally).
 - 20/04/2025 = Study (Section 19)
 
 - 21/04/2025 = Study (Section 20 - Simon games boss level challenge)
+
+- 11/06/2025 = Study (Review Section 19 - Jquery)
