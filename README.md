@@ -118,6 +118,8 @@ I am tired (literally).
 
 - 21/04/2025 = Study (Section 20 - Simon games boss level challenge)
 
+- 22/04/2025 = Some shocking news here, I will stop studying daily (for a long time). If you ask me why, lets just say that i got something way better to do. But I will still come back for this when I have the time for it, just not as often. Soo, see u guys later
+
 - 11/06/2025 = Study (Review Section 19 - Jquery)
 
-- 22/04/2025 = Some shocking news here, I will stop studying daily (for a long time). If you ask me why, lets just say that i got something way better to do. But I will still come back for this when I have the time for it, just not as often. Soo, see u guys later
+- 12/06/2025 = Study (Review Section 19 - Jquery)
