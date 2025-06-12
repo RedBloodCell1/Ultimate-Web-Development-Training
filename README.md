@@ -122,4 +122,4 @@ I am tired (literally).
 
 - 11/06/2025 = Study (Review Section 19 - Jquery)
 
-- 12/06/2025 = Study (Review Section 19 - Jquery)
+- 12/06/2025 = Study (Review Section 19 - Jquery) DONE
