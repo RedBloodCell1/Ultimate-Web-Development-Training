@@ -123,3 +123,5 @@ I am tired (literally).
 - 11/06/2025 = Study (Review Section 19 - Jquery)
 
 - 12/06/2025 = Study (Review Section 19 - Jquery) DONE
+
+- 15/06/2025 = Study (Section 20 - Restart) DONE (Section 21 - UNIX cmd line)
