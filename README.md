@@ -125,3 +125,7 @@ I am tired (literally).
 - 12/06/2025 = Study (Review Section 19 - Jquery) DONE
 
 - 15/06/2025 = Study (Section 20 - Restart) DONE (Section 21 - UNIX cmd line)
+
+- 16/06/2025 = Study (n8n)
+
+Today, I realize something really important. People don't want you for mastering 10% of everything. But companies and others want a person that master 1 thing at 100% capability. So from now on. I will tell you guys that after I finish this video. I am going all in on automation. That is going to be my niche and I will be very good at it. Now everything seems more simple.
