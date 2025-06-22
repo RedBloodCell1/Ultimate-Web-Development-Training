@@ -131,3 +131,7 @@ I am tired (literally).
 Today, I realize something really important. People don't want you for mastering 10% of everything. But companies and others want a person that master 1 thing at 100% capability. So from now on. I will tell you guys that after I finish this video. I am going all in on automation. That is going to be my niche and I will be very good at it. Now everything seems more simple.
 
 - 19/06/2025 = Study (Section 21 - UNIX cmd line) DONE
+
+- 21/06/2025 = Study LOCKIN (Section 22 - Backend Web Development)
+
+- 22/06/2025 = Study (Section 23 & 24 Node.js and Express.js)
