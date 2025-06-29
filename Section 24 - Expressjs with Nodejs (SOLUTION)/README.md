@@ -37,6 +37,13 @@ JS framework to create back end
 
 Request can be processed into something else
 
+1. **body-parser** = I think this is to parse sent data into a more clean data. So from login page for example, and then its parsed into a more clean form of data that then can be accessed through
+2. **app.use(bodyParser.urlencoded({ extended: true }));** = To use body parser. So our **req** has a **body** in which we can get the name/var by looking at the html **name attribute**
+
+3. **morgan** = to log the status of the request
+
 ## Notes:
 
 1. so npm i xxx -g is so we install node globally so we can use it everywhere anytime
+2. dont forget to put **next()** so that the middleware can actually continue to the next one
+3. Middleware is always called before every request made.
