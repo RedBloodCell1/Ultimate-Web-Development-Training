@@ -135,3 +135,5 @@ Today, I realize something really important. People don't want you for mastering
 - 21/06/2025 = Study LOCKIN (Section 22 - Backend Web Development)
 
 - 22/06/2025 = Study (Section 23 & 24 Node.js and Express.js)
+
+- 27/06/2025 = Study (Section 27 Express.js)
